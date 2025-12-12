@@ -63,9 +63,6 @@ Smart virtual assistants
 
 Human–computer interaction research
 
-📸 Demo
-
-(Include demo GIFs/screenshots here)
 
 🛠️ How to Run
 pip install -r requirements.txt
@@ -74,4 +71,5 @@ python run.py
 ⭐ Contributions
 
 PRs and feature improvements are welcome!
+
 
