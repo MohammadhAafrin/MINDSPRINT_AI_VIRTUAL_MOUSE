@@ -1,0 +1,2 @@
+# MINDSPRINT_AI_VIRTUAL_MOUSE
+AI Virtual Mouse is an advanced human–computer interaction system that replaces physical mouse input with hand gestures, eye tracking, and voice commands. Using Python, OpenCV, MediaPipe, and TensorFlow Lite, it enables cursor movement, clicking, scrolling, drag-and-drop, and voice-based actions in real time. 
